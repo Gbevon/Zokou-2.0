@@ -2,23 +2,23 @@ const { zokou } = require('../framework/zokou');
 
 zokou(
     {
-        nomCom: 'les_instructions',
+        nomCom: 'gameplay',
         categorie: 'world of hiden blue'
     },
     async (dest, zk, commandeOptions) => {
         const { repondre, arg, ms } = commandeOptions;
 
         if (!arg || arg.length === 0)  {
-            const lien = 'https://telegra.ph/file/fcf411d0c7c0ece974a53.jpg';
-            const msg = ` ➖🛡️ TOUT SAVOIR SUR(les instructions)🛡️
+            const lien = 'https://telegra.ph/file/bdbe9ed9f01c591ee7e94.jpg';
+            const msg = ` ➖🛡️ TOUT SAVOIR SUR(le gameplay)🛡️
   
 ➖➖➖➖➖➖➖➖➖
-⚠️chat🎧: bienvenue,voici les informations fournies concernant ( les_instructions)⬇️
+⚠️chat🎧: bienvenue,voici les informations fournies concernant ( le gameplay)⬇️
 ➖➖➖➖➖➖➖➖➖
           
  ⚠️un panel est composé de 2 étapes:
           
-⚙️la première où vous débutez l'action et la deuxième où vous lachevez par conséquent vous ne pouvez faire que 3 action dans un panel et seulement 2actions par étape en précisant que les 2actions lors de létape 1 ou 2 se font en (combos)👈 .
+⚙️la première où vous débutez l'action et la deuxième où vous lachevez par conséquent vous ne pouvez faire que 4 action dans un panel et seulement 2actions(mouvement+ attaques et autres) ou (mouvement+mouvement)par étape en précisant que les 2actions lors de létape 1 ou 2 se font simultanément 👈 .
 
 ⚙️sinon l'action ne sera pas prise en compte , de plus quand  vous voyez ceci 👉(MC🚫 ) cela veut dire que vous avez effectué une mauvaise action ou une mauvaise manœuvre 
 
