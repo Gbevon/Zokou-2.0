@@ -29,7 +29,8 @@ zokou(
 
 
 𓏒𓏒𓏒𓏒OUEST🌎𓏒𓏒𓏒𓏒
-⚠️ Cette fiche résume ce qui se passe dans les différents endroits ci-dessus, les joueurs devront écrire leurs panel en fonction de se qui se passe dans l'endroit où ils sont`;
+⚠️ Cette fiche résume ce qui se passe dans les différents endroits ci-dessus, les joueurs devront écrire leurs panel en fonction de se qui se passe dans l'endroit où ils sont
+☣️ a pied sans moyen de transport vous ne pouvez parcourir que max 1km a chaque panel mais avec un moyen de transport vous ne pouvez parcourir que max 3km a chaque panel`;
             zk.sendMessage(dest, { image: { url: lien }, caption: msg }, { quoted: ms });
    
         }
