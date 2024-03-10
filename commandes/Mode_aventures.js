@@ -18,22 +18,9 @@ zokou(
 
 𓏒𓏒𓏒𓏒 NORD🌎𓏒𓏒𓏒𓏒
 
-
-
-
-
 𓏒𓏒𓏒𓏒🌎SUD🌎𓏒𓏒𓏒𓏒
 
-
-
-
-
-
-𓏒𓏒𓏒𓏒🌎 EST🌎𓏒𓏒𓏒𓏒
-
-
-
-
+𓏒𓏒𓏒𓏒🌎EST🌎𓏒𓏒𓏒𓏒
 
 𓏒𓏒𓏒𓏒OUEST🌎𓏒𓏒𓏒𓏒
 ⚠️ Cette fiche résume ce qui se passe dans les différents endroits ci-dessus, les joueurs devront écrire leurs panel en fonction de se qui se passe dans l'endroit où ils sont`;
