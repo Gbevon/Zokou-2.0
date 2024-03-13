@@ -12,7 +12,7 @@ zokou(
             const lien = 'https://telegra.ph/file/5c62aeeacdfff30e3ae7b.jpg';
             const msg = `⭕️ MODE AVENTURES🗺️
 ▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒
-
+✍️ACTS📃:
 𖨠🌎 RÉGION :
 𖨠🚸 SUPERFICIE : 280km²
 
