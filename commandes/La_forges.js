@@ -9,8 +9,8 @@ zokou(
         const { repondre, arg, ms } = commandeOptions;
 
         if (!arg || arg.length === 0)  {
-            const lien = 'https://telegra.ph/file/08bda9bc8b6c8526b4930.jpg';
-            const msg = `⚒️ ÉQUIPEMENTIER 🧰
+            const lien = '';
+            const msg = `⚔️ ARMURERIES 🧰
 ▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒
 
 👤 FORGERON :Bienvenue à la forge .Mon nom est holaf et je suis le forgeron du jeux prêt à vous servir si besoin.
