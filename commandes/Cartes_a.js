@@ -17,7 +17,8 @@ zokou(
 𖨠🚸 SUPERFICIE : 280km²
 
              𖨠 DESCRIPTION 𖨠
- Bienvenue au point de départ à l'entré de la région de Grafield. 
+ Bienvenue au point de départ à l'entré de la région de Grafield.
+ 
  GRAFIELD est une région prospères avec un climat et des saisons varié (....) sa sa forêt abrite une grande variété d'espèces animales et végétales ainsi que des surfaces différents par endroits sans oublier sa grande ville qui est un carrefour commercial incontournable et un lieu de découverte historique majeur
 
 ☢️LOCALISATION☢️:
