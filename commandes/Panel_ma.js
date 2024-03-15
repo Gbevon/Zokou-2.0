@@ -16,6 +16,7 @@ zokou(
 ⚠️ ZONE :
 𓏒𓏒𓏒𓏒𓏒𓏒𓏒𓏒𓏒𓏒𓏒𓏒𓏒
 🚹LEVEL :1
+👣 DISTANCE PARCOURUE :
 𓏒𓏒𓏒𓏒𓏒𓏒𓏒𓏒𓏒𓏒𓏒𓏒𓏒
           🧰 RESSOURCES 🧰
 𓏒𓏒𓏒𓏒𓏒𓏒𓏒𓏒𓏒𓏒𓏒𓏒𓏒
@@ -42,7 +43,7 @@ zokou(
 
                 ÉTAPE 2⤵️
 🔰
-𓏒𓏒INVENTAIRE TROUVÉ🧰𓏒𓏒
+𓏒𓏒INVENTAIRE RÉCOLTER 🧰𓏒𓏒
 🔰
 
 🔰
