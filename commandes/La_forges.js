@@ -9,7 +9,7 @@ zokou(
         const { repondre, arg, ms } = commandeOptions;
 
         if (!arg || arg.length === 0)  {
-            const lien = '';
+            const lien = 'https://telegra.ph/file/8563ee955348b9b73bc93.jpg';
             const msg = `⚔️ ARMURERIES 🧰
 ▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒
 
