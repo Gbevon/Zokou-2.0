@@ -19,6 +19,7 @@ zokou(
              𖨠 DESCRIPTION 𖨠
 
 Bienvenue au point de départ situé à l'entrée de la région de TARTAROS
+
 TARTAROS est une région très dangereuses avec un climat humide et froid (....) ses  forêt abrite une grande variété d'espèces animales et végétales dangereuses ainsi que des surfaces différents par endroits sans oublier sa grande citer fantôme qui est un carrefour commercial du marché noir incontournable et un lieu de découverte historique majeur qui ont été soit volé ou soit caché du monde extérieur (...)
 
 ☢️LOCALISATION☢️:
