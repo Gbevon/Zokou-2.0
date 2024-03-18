@@ -9,7 +9,7 @@ zokou(
         const { repondre, arg, ms } = commandeOptions;
 
         if (!arg || arg.length === 0)  {
-            const lien = 'https://telegra.ph/file/cda63604c3d972e2b1ccf.jpg';
+            const lien = 'https://telegra.ph/file/94d906a80604fe5504630.jpg';
             const msg = `WORLD OF HIDEN BLUE
 ▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒
 
