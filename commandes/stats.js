@@ -9,7 +9,7 @@ zokou(
         const { repondre, arg, ms } = commandeOptions;
 
         if (!arg || arg.length === 0)  {
-            const lien = 'https://telegra.ph/file/3c8cec2d237cbfe0f12ed.jpg';
+            const lien = 'https://telegra.ph/file/d1da0d6db4817156c3ac3.jpg';
             const msg = `➖➖🛡️ TOUT SAVOIR SUR( Stats)🛡️
   
 ➖➖➖➖➖➖➖➖➖➖
